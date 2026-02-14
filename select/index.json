@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "結婚とかできないなら",
+  "base_artist": "the paddles",
+  "createdAt": "2026-02-14T20:59:37.724046Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "結婚とかできないなら",
+      "artist": "the paddles",
+      "has_synced": false,
+      "path": "select/pl_01_結婚とかできないなら_the_paddles.txt"
+    }
+  ]
+}
